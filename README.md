@@ -6,4 +6,4 @@
 3.Make sure the Webcam access is on
  
 4. Open a new terminal inside the directory
---> python app3.py
+--> run python app3.py
